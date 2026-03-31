@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="client/src/assets/hero.png" alt="Ludo Legends Banner" width="120" />
+  <img src="client/public/favicon.png" alt="Ludo Legends Banner" width="120" />
 </p>
 
 <h1 align="center">LUDO LEGENDS</h1>
